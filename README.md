@@ -13,10 +13,18 @@
   
 * Media Queries
 
+  
+
+## Veja o site no ar:
+https://treinando-responsividade.vercel.app/
+
+
+
 ## Feito por:
 
 ### Gustavo Duarte
 
 ### Linkedin: https://www.linkedin.com/in/gustavo-duarte-lucena-2341b2186/
+
 
 
